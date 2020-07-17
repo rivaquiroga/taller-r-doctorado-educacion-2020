@@ -2,9 +2,9 @@
 
 > Un taller de 9 horas para estudiantes del Doctorado en Educación UC
 
-### Preparación
+## Preparar tu computador
 
-En este taller utilizaremos R a través de RStudio. Es probable que ya tengas ambos instalados en tu computador, debido a que que en el primer semestre tuviste que ocuparlos. En el caso de R, es importante que tengas instalada la versión 3.6 o superior. Para chequear qué versión tienes, puedes ejecutar el siguiente comando en R:
+En este taller utilizaremos R a través de RStudio. Es probable que ya tengas ambos instalados en tu computador, debido a que en el primer semestre tuviste que ocuparlos. En el caso de R, es importante que tengas instalada la versión 3.6 o superior. Para chequear qué versión tienes, puedes ejecutar el siguiente comando en R:
 
 ```
 R.Version()$version.string
@@ -14,13 +14,12 @@ La última versión disponible es la 4.0.2. Si tienes una versión posterior a l
 
 En el caso de RStudio, la última versión disponible es la 1.3. En el menú `Help > About RStudio` puedes revisar cuál tienes instaladas. Puedes descargarla la última versión desde [este enlace](https://rstudio.com/products/rstudio/download/).
 
-No es mala idea crearse una cuenta en RStudio Cloud como respaldo. Esta es una versión de RStudio en la nube que, si bien la opción gratuita tiene limitaciones de uso, hay muchos escenarios en los que resulta muy útil. Puedes crearte una cuenta [acá](https://rstudio.cloud/).
+No es mala idea crearse una cuenta en RStudio Cloud como respaldo. Esta es una versión de RStudio en la nube que, si bien tiene algunas limitaciones de uso, hay muchos escenarios en los que resulta muy útil. Puedes crearte una cuenta [acá](https://rstudio.cloud/).
 
 
+## Preparar tu espacio de trabajo
 
-## Preparación de tu espacio de trabajo
-
-Durante las tres sesiones iremos escribiendo código en vivo. Lo ideal es que vayas replicando en tu computador lo que hagamos. Para ello, es necesario que pienses en alguna configuración de pantalla que te permita ir mirando lo que hacemos en Zoom y replicándolo en la ventana de RStudio.  
+Este es un curso práctico. Durante las tres sesiones escribiremos código en vivo. Lo ideal es que vayas replicando en tu computador todo lo que hagamos. Para ello, es necesario que pienses en alguna configuración de pantalla que te permita ir mirando lo que hacemos en Zoom y replicándolo en RStudio.  
 
 A continuación hay algunas opciones:
 
