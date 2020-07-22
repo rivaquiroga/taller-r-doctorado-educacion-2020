@@ -1,6 +1,6 @@
 # Recursos adicionales
 
-(en construcción)
+(en construcción, a partir de lo que han comentado en las encuesta al final de cada sesión)
 
 ## Análisis de textos usando R
 
@@ -27,3 +27,4 @@ En mayo también hice un taller en línea sobre web scraping para Data Science U
 ## Codificar datos cualitativos
 
 En el meetup de mayo del grupo de usuarios de R hubo dos presentaciones que pueden ser de interés. En la primera se mostró cómo usar RMarkdown. En la segunda, cómo codificar datos cualitativos con R usando RQDA. Esta última presentación puede resultar muy útil para quienes tengan que trabajar con datos como transcripciones de entrevistas o textos. El video está disponible en [el canal de Youtube del grupo de usuarios de R](https://www.youtube.com/watch?v=i0TIYtqPMNQ)
+

@@ -24,7 +24,7 @@ Documentación de los paquetes que utilizamos:
 
 Enlace al **código en vivo** que escribiremos durante la sesión: https://bit.ly/doc-edu-codigo-dia2
 
-- [readr](https://readr.tidyverse.org/) (para importar y exportar archivos delimitados por coma y utro caracter)
+- [readr](https://readr.tidyverse.org/) (para importar y exportar archivos delimitados por coma u tro caracter)
 - [skimr](https://docs.ropensci.org/skimr/)
 - [dplyr](https://ggplot2.tidyverse.org/) (funciones para manejar datos, como `filter()`, `select()`, `mutate()`. El operador ` %>% ` lo pudimos utilizar porque activamos este paquete)
 - [ggplot2](https://ggplot2.tidyverse.org/) (para hacer gráficos)
