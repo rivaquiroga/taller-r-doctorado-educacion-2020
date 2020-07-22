@@ -47,3 +47,4 @@ Estos son los tres libros sugeridos como material de apoyo para este taller. Tod
 Para seguir practicando, puedes utilizar los Primers de RStudio: https://rstudio.cloud/learn/primers. Además de explicaciones sobre como trabajar con datos, encontrarás ejercicios interactivos que te permitirán poner en práctica tus habilidades e ir chequeando tu comprensión. 
 
 Además, [en este archivo](https://github.com/rivaquiroga/taller-r-doctorado-educacion/blob/master/recursos_adicionales.md) hay recursos adicionales que pueden servir tanto para profundizar en los temas vistos en el taller, como para abordar temas sobre los que manifestaron interés.
+
