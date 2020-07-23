@@ -22,7 +22,7 @@ Documentación de los paquetes que utilizamos:
 
 ## Sesión 2
 
-Enlace al **código en vivo** que escribiremos durante la sesión: https://bit.ly/doc-edu-codigo-dia2
+Enlace al **código en vivo** que fuimos escribiendo durante la sesión: https://bit.ly/doc-edu-codigo-dia2
 
 - [readr](https://readr.tidyverse.org/) (para importar y exportar archivos delimitados por coma u otro caracter)
 - [skimr](https://docs.ropensci.org/skimr/)
@@ -33,7 +33,7 @@ Enlace al **código en vivo** que escribiremos durante la sesión: https://bit.l
 
 ## Sesión 3
 
-Enlace al **código en vivo** que fuimos escribiendo durante la sesión: https://bit.ly/doc-edu-codigo-dia3
+Enlace al **código en vivo** que escribiremos durante la sesión: https://bit.ly/doc-edu-codigo-dia3
 
 
 ## Material de apoyo
