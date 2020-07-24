@@ -4,7 +4,7 @@
 
 ## Tablas en formato APA
 
-El paquete **apaTable** sirve para formatear tablas. Puede instalarse con `install.packages("apaTable")`. En este [enlace](https://dstanley4.github.io/apaTables/articles/apaTables.html) hay un tutorial en inglés sobre cómo utilizarlo.
+El paquete **apaTables** sirve para formatear tablas. Puede instalarse con `install.packages("apaTables")`. En este [enlace](https://dstanley4.github.io/apaTables/articles/apaTables.html) hay un tutorial en inglés sobre cómo utilizarlo.
 [Aquí](https://www.anthonyschmidt.co/post/2020-06-03-making-apa-tables-with-gt/) alguien escribió un post sobre cómo usar crear tablas en formato APA usando **gt**, el paquete para tablas que usamos en la tercera sesión. 
 
 ## Análisis de textos usando R
