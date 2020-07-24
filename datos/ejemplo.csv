@@ -1,4 +1,4 @@
-id,region,favoritos,edad
+id,Región,favoritos,Edad Participante
 1,Bio bío,"verde, amarillo, rojo",12
 2,Metropolitana,"amarillo, rojo, verde",14
 3,Biobío,"verde, amarillo, rojo",16
@@ -38,3 +38,6 @@ id,region,favoritos,edad
 37,Bio-Bio,"verde, amarillo, rojo",37
 38,Metropolitana,"verde, amarillo, rojo",32
 39,Biobío,"ROJO, amarillo, azul",40
+,,,
+,,,
+,NOTA: esta es la versión definitiva de los datos,,
