@@ -48,3 +48,21 @@ Para seguir practicando, puedes utilizar los Primers de RStudio: https://rstudio
 
 Además, [en este archivo](https://github.com/rivaquiroga/taller-r-doctorado-educacion/blob/master/recursos_adicionales.md) hay recursos adicionales que pueden servir tanto para profundizar en los temas vistos en el taller, como para abordar temas sobre los que manifestaron interés.
 
+
+## La comunidad de R
+
+Actualmente en Chile se encuentran activos los siguientes grupos:
+
+- [RLadies Santiago](https://www.meetup.com/es/rladies-scl)
+- [RLadies Valparaíso](https://www.meetup.com/es/rladies-valparaiso)
+- [RLadies Concepción](https://www.meetup.com/es/rladies-concepcion)
+- [RLadies Talca](https://www.meetup.com/es/rladies-talca)
+- [Grupos de Usuarios de R de Santiago](https://www.meetup.com/es/userchile)
+
+Pero como ahora todo es virtual, pueden estar al tanto de los eventos alrededor del mundo en estos enlaces:
+
+- [RLAdies](https://www.meetup.com/es/pro/rladies/)
+- [Grupos de Usuarios de R](https://www.meetup.com/es/pro/r-user-groups/)
+
+
+
